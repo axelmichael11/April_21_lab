@@ -6,7 +6,6 @@
 }
 
 html, body {
-  width: 960px;
 }
 
 #noaa-top{
@@ -21,6 +20,7 @@ html, body {
 }
 
 #header_noaa {
+
   width: 58px;
   height: auto;
 }
@@ -41,3 +41,4 @@ button{
   width: 15%;
   height: auto;
 }
+
