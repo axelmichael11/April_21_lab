@@ -9,6 +9,13 @@ html, body {
   width: 960px;
 }
 
+#noaa-top{
+  margin-bottom: 10px;
+}
+
+
+
+
 .top-bar{
   display: inline-block;
 }
@@ -27,4 +34,10 @@ html, body {
   width: 20%;
   height: auto;
   float: right;
+}
+
+button{
+  display: inline-block;
+  width: 15%;
+  height: auto;
 }
