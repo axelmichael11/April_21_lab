@@ -8,10 +8,37 @@
 html, body {
 }
 
-#header_noaa {
-  width: 50px;
-  height: 40px;
-
+#noaa-top{
+  margin-bottom: 10px;
 }
 
-#
+
+
+
+.top-bar{
+  display: inline-block;
+}
+
+#header_noaa {
+
+  width: 58px;
+  height: auto;
+}
+
+#long-header {
+  width: 65%;
+  height: auto;
+}
+
+#right-head {
+  width: 20%;
+  height: auto;
+  float: right;
+}
+
+button{
+  display: inline-block;
+  width: 15%;
+  height: auto;
+}
+
