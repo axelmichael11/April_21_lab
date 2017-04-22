@@ -9,6 +9,22 @@ html, body {
   width: 960px;
 }
 
+.top-bar{
+  display: inline-block;
+}
+
 #header_noaa {
-  width: 50px;
+  width: 58px;
+  height: auto;
+}
+
+#long-header {
+  width: 65%;
+  height: auto;
+}
+
+#right-head {
+  width: 20%;
+  height: auto;
+  float: right;
 }
